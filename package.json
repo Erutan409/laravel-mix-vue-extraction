@@ -1,0 +1,27 @@
+{
+  "name": "laravel-mix-vue-extraction",
+  "version": "1.0.0",
+  "description": "Easily configure Vue extration setting.",
+  "main": "src/LaravelMixVueExtractionOptions.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erutan409/laravel-mix-vue-extraction.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "vue",
+    "vuejs",
+    "extraction",
+    "filename"
+  ],
+  "author": "Michael Keyser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erutan409/laravel-mix-vue-extraction/issues"
+  },
+  "homepage": "https://github.com/Erutan409/laravel-mix-vue-extraction#readme",
+  "dependencies": {
+    "proxy-method": "^1.0.0"
+  }
+}
